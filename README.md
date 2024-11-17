@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/931fdb92-9f10-4acf-8ed7-cb14b61cb2d1)# 5_Create_Socket_for_HTTP_for_webpage_upload_and_download
+# 5_Create_Socket_for_HTTP_for_webpage_upload_and_download
 ## NAME : GAUTHAM KRISHNA S
 ## REGISTER NUMBER : 212223240073
 ## AIM :
